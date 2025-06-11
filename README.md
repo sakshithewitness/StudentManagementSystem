@@ -19,8 +19,11 @@ A simple yet powerful **Student Management System** built using **Java**, design
 - **Design Pattern:** Service-based structure for separation of concerns
 
 ## 📁 Project Structure
+
+
 ├── src/
-│ ├── Student.java # POJO for Student entity
-│ ├── StudentService.java # Core business logic
-│ ├── StudentUI.java # CLI interaction logic
-│ └── Main.java # Entry point
+│   ├── Student.java          # POJO for Student entity
+│   ├── StudentService.java   # Core business logic
+│   ├── StudentUI.java        # CLI interaction logic
+│   └── Main.java             # Entry point
+
