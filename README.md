@@ -4,7 +4,7 @@ A simple yet powerful **Student Management System** built using **Java**, design
 
 ## 🚀 Features
 
-- 🧑‍🎓 Add new students with ID, name, age, course, and marks
+- 🧑‍🎓 Add new students with ID, name, age, course, phone no. and email
 - 🔍 Instantly search and view student records
 - ✏️ Update or delete existing student details
 - 📊 Generate basic performance and analytics
